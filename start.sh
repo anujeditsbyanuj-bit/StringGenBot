@@ -1,1 +1,1 @@
-python -m Anony 
+python -m anony 
